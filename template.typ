@@ -45,8 +45,13 @@
   ),
     cell(
     align: top + left,
-    colspan: 10,
+    colspan: 7,
     [#rect[VERDICT]],
+  ),
+    cell(
+    align: top + left,
+    colspan: 3,
+    [#rect[RECOMMENDED BY]],
   ),
 )
 
@@ -64,5 +69,3 @@
 )
 
 #rect(width: 100%, height: 650pt, fill: pat)
-
-
