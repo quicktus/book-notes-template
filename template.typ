@@ -58,7 +58,7 @@
       cell(
       align: top + left,
       colspan: 2,
-      [#rect[DATE READ]],
+      [#rect[STARTED ON]],
     ),
       cell(
       align: top + left,
